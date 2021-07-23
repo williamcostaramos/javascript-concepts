@@ -13,3 +13,5 @@ if(temCarro){
  var possuicarro= "sim"; // essa variavel está disponivel de forma global, voce poderar ter acesso ao conteudo dela em qualquer parte deste script;
 }
 console.log(possuicarro)
+
+const tipoCombustivel = "gasolina" ; // variavel do tipo const, não e possivel alterar o valor atribuido á ela.
